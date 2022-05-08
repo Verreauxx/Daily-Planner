@@ -1,4 +1,4 @@
-# Daily-Planner
+# Daily-Planner For 9-5 WorkDay
 https://verreauxx.github.io/Daily-Planner/
 
 ![05-third-party-apis-homework-demo](https://user-images.githubusercontent.com/101163927/167279216-1a2bb07c-b2db-4c7d-84e1-a70b45f61bc8.gif)
